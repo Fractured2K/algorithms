@@ -27,6 +27,8 @@ Binary search works by taking a sorted list and
 comparing the middle element in a list.
 """
 
+#WIP 28
+
 # Takes in two arguments, a list and the item you're looking for
 def binary_search(list, item):
     low = 0;
